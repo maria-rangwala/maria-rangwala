@@ -33,13 +33,13 @@ I have always been fascinated by intersection of technology and creativity that 
 ## 🤝 Let's get Connected
 <div align="left">
   <a href="https://in.linkedin.com/in/mariaarangwala" target="_blank">
-    <img alt="LinkedIn" src="https://www.svgrepo.com/show/521725/linkedin.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white"/>
   </a>
   <a href="mailto:maria.rangwala.16@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://www.svgrepo.com/show/349379/gmail-old.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=red&color=white"/>
   </a>
 </div>
 
 <div align="center">
-  <h2>🙋‍♂️ Thanks for visiting!</h2>
+  <h2>Thankyou for your precious time!</h2>
 </div>
