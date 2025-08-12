@@ -1,27 +1,36 @@
+<p align="center">
+  <img src="https://github.com/maria-rangwala/banner/blob/main/banner.png" alt="Maria Rangwala Banner" width="100%"/>
+</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Gotham&size=45&pause=1000&color=8aa8d2&center=true&vCenter=true&width=800&lines=Hey+There%2C+I'm+Maria+Rangwala!" alt="Typing SVG" />
+</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Chewy&size=30&pause=1000&color=8aa8d2&center=true&vCenter=true&width=800&lines=Frontend+Developer" alt="Typing SVG" />
+</p>
 <img src="https://komarev.com/ghpvc/?username=maria-rangwala&label=Profile+Views&color=2f81f7&style=for-the-badge" />
 
-## 👤 About Me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=500&size=18&letterSpacing=1px&duration=5000&pause=1500&color=38C2FF&vCenter=true&width=435&lines=Frontend+Developer)](https://git.io/typing-svg)
-
-Hey there! I am an aspiring software engineer, who is passionate to learn new tech daily. Thrives on connecting with tech enthusiasts & tackling real-world problems.
-I have always been fascinated by intersection of technology and creativity that makes me interested in frontend development.
+I am a dedicated and disciplined computer science student aiming to apply my programming knowledge and creativity to solve real-world challenges and drive impactful results in the tech industry.
 
 ## ⚙️ Tech Stack
 ```Programming Languages```
 
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js,python&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark)](https://skills.thijs.gg)
 
 ```Front-End Technologies```
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,html,css&theme=dark)](https://skills.thijs.gg)
+
+```Back-End Technologies```
+
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express&theme=dark)](https://skills.thijs.gg)
 
 ```Databases```
 
-[![My Skills](https://skillicons.dev/icons?i=mysql&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&theme=dark)](https://skills.thijs.gg)
 
 ```Tools & Platforms```
 
-[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,git,github,postman,aws,figma&theme=light)](https://skills.thijs.gg)
+[![My Skills](https://skillicons.dev/icons?i=powershell,vscode,git,github,postman,aws,figma,eclipse,wordpress&theme=dark)](https://skills.thijs.gg)
 
 ## 🎯 Position of Responsibilities
 
