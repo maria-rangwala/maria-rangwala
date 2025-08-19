@@ -1,17 +1,10 @@
 <p align="center">
-  <img src="https://github.com/maria-rangwala/banner/blob/main/banner.png" alt="Maria Rangwala Banner" width="100%"/>
+<img width="1584" height="396" alt="Maria Rangwala Banner" src="https://github.com/user-attachments/assets/48e07f66-ee4a-4fe1-8072-a9c89d6b3009" />
 </p>
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Gotham&size=45&pause=1000&color=8aa8d2&center=true&vCenter=true&width=800&lines=Hey+There%2C+I'm+Maria+Rangwala!" alt="Typing SVG" />
-</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Chewy&size=30&pause=1000&color=8aa8d2&center=true&vCenter=true&width=800&lines=Frontend+Developer" alt="Typing SVG" />
-</p>
-<img src="https://komarev.com/ghpvc/?username=maria-rangwala&label=Profile+Views&color=2f81f7&style=for-the-badge" />
-
+<img src="https://komarev.com/ghpvc/?username=maria-rangwala&label=Profile+Views&color=bf66f2&style=for-the-badge" />
 I am a dedicated and disciplined computer science student aiming to apply my programming knowledge and creativity to solve real-world challenges and drive impactful results in the tech industry.
 
-## ⚙️ Tech Stack
+## 💻Tech Stack
 ```Programming Languages```
 
 [![My Skills](https://skillicons.dev/icons?i=cpp,c,java,js&theme=dark)](https://skills.thijs.gg)
@@ -32,14 +25,28 @@ I am a dedicated and disciplined computer science student aiming to apply my pro
 
 [![My Skills](https://skillicons.dev/icons?i=powershell,vscode,git,github,postman,aws,figma,eclipse,wordpress&theme=dark)](https://skills.thijs.gg)
 
-## 🎯 Position of Responsibilities
 
-- #### Core Team Member at [AITR ACM & AITR ACM-W Student Chapter](https://gdg.community.dev/gdg-indore/)
-  ```OCT 2023 - Present```
+## 👨🏽‍💻Leetcode Stats:
+[<img width="500em" src="https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap"/>](https://leetcard.jacoblin.cool/jayank232425?theme=dark&font=Josefin%20Slab&ext=heatmap)
 
-  Actively contributed to serving as a web developer at AITR ACM & AITR ACM-W Student Chapter. Successfully developed two impactful websites: [AITR ACM Website 2023](https://aitr.acm.org/) and [UniNote](https://github.com/AITR-ACM/UniNote/tree/maria). Played a pivotal role in the management and sponsorship teams, showcasing strong organizational skills. Proficiently managed on-ground activities during events, ensuring smooth execution and engagement.
+## 📊 GitHub Stats:
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=maria-rangwala&theme=tokyonight&hide_border=true&stroke=9D4EDD&ring=9D4EDD&fire=9D4EDD" alt="GitHub Streak" />
+</div>
 
-## 🤝 Let's get Connected
+<div align="center">
+    
+  ![snake gif](https://github.com/TechnologyHell/TechnologyHell/blob/output/github-snake-dark.svg)
+</div>
+
+<div align="center">
+  
+  [![](https://visitcount.itsvg.in/api?id=technologyhell&icon=10&color=6)](https://visitcount.itsvg.in)
+</div>
+
+
+
+##  🌐Let's get Connected
 <div align="left">
   <a href="https://in.linkedin.com/in/mariaarangwala" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%25230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=blue&color=white"/>
