@@ -27,7 +27,7 @@ I am a dedicated and disciplined computer science student aiming to apply my pro
 
 
 ## 👨🏽‍💻Leetcode Stats:
-[<img width="500em" src="https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap"/>](https://leetcard.jacoblin.cool/jayank232425?theme=dark&font=Josefin%20Slab&ext=heatmap)
+[<img width="500em" src="https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap"/>](https://leetcard.jacoblin.cool/maria_rangwala?theme=dark&font=Josefin%20Slab&ext=heatmap)
 
 ## 📊 GitHub Stats:
 <div align="center">
